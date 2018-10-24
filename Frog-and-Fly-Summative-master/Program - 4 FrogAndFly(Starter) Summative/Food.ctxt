@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment1.text=\r\n\ Food\ is\ a\ constructor\ that\ patses\ the\ fruit\ \r\n\ (apples,\ bannanas,\ cherries,\ grapes,\ and\ strawberries)\r\n\ randomly\ in\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=2

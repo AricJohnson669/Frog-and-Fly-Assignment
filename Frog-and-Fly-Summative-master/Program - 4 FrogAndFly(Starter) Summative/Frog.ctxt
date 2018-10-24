@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Frog
+comment0.text=\r\n\ 10\ marks\r\n
+comment1.params=
+comment1.target=Frog()
+comment1.text=\r\n\ Frog\ sets\ the\ frog's\ speed\ to\ a\ random\ number\r\n\ in-between\ 4\ and\ 8\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act\ is\ the\ constructor\ that\ makes\ a\ Frog\ object.\r\n\ It\ tells\ the\ Frog\ to\ walk,\ the\ speed\ in\ which\ the\ Frog\r\n\ walks,\ it\ tells\ the\ Frog\ to\ turn\ 7\ degrees\ when\ it\ hits\ the\ edge\ \r\n\ of\ the\ world,\ and\ it\ tells\ the\ FRog\ to\ eat\ a\ Fly\ when\ they\ touch\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ walk()
+comment3.text=\r\n\ walk\ tellse\ the\ Frog\ how\ fast\ to\ move,\ and\ the\ way\ it\ moves,\ (\ 35\ percent\r\n\ of\ the\ time\ it\ turns\ right\ or\ left)\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ atEdge()
+comment4.text=\r\n\ atEdge\ tells\ the\ Frog\ to\ turn\ 7\ degrees\ whenever\ \r\n\ it\ hits\ the\ edge\ of\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ checkForFlys()
+comment5.text=\r\n\ checkForFlys\ makes\ the\ program\ stop\ whenever\r\n\ the\ Frog\ touches\ the\ fly.\ It\ also\ removes\ the\ Fly\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6

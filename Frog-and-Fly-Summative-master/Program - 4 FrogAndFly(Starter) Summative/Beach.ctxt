@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment1.text=\r\n\ Beach\ is\ the\ constructor\ that\ creates\ a\ beach\ object.\r\n\ It\ adds\ the\ size\ of\ the\ world,\ Food,\ \r\n\ Fly,\ Frog,\ and\ the\ Scoreboard\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=n
+comment2.target=void\ addFood(int)
+comment2.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\ in\ random\ locations\r\n\ \r\n\ @param\ There\ is\ one\ parameter,\ (int\ n)\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ addFly()
+comment3.text=\r\n\ addFly\ adds\ the\ Fly\ to\ the\ world\ in\ a\ random\ location\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=
+comment4.target=void\ addFrog()
+comment4.text=\r\n\ addFrog\ adds\ the\ Frog\ to\ the\ center\ of\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ update()
+comment5.text=\r\n\ update,\ upates\ the\ scoreboard\ depending\ on\ how\ many\ \r\n\ peaces\ of\ Food\ are\ eaten\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ act\ is\ the\ constructor\ that\ makes\ the\ food\ \r\n\ reset\ after\ it\ is\ all\ gone\r\n\ \r\n\ @param\ There\ are\ no\ parameters\ \r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=7
